@@ -21,7 +21,7 @@
 - &nbsp;Metodologías: Agile, análisis y documentación de pruebas.
 
 ### 🚀 &nbsp;Proyectos Destacados
-🔹 &nbsp;Urban Routes (Aplicación web para reserva de taxis)\
+🔹 &nbsp;Urban Routes (Aplicación web para simular pedir un taxi.)\
 🚨 &nbsp;Descripción: Plataforma que permite a los usuarios reservar taxis en tiempo real, gestionar métodos de pago y revisar el historial de viajes.
 🧑‍💻 &nbsp;Tecnologías utilizadas: Pruebas manuales, Chrome DevTools, JIRA, SQL.\
 🔑 &nbsp;Contribución:
